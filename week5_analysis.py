@@ -2,9 +2,6 @@
 # Data: Monthly U.S. CPI (seasonally adjusted), January 2020–September 2025.
 # Source: FRED CPIAUCSL (https://fred.stlouisfed.org/series/CPIAUCSL)
 # Values here are rounded to 2 decimal places from the previous workbook.
-#
-# Install if needed: pip install numpy statsmodels matplotlib
-# Put week5_cpi_data.csv in the same folder as this script.
 
 import csv
 from pathlib import Path
